@@ -9,5 +9,7 @@ weat_single_stimuli_traits.py computes association with masculine and feminine v
 
 weat_traitgroups.py computes association of single words with masculine and feminine vectors
 
+files with .txt extension are selected word lists
+
 code based on:
 Charlesworth, T. E., Yang, V., Mann, T. C., Kurdi, B., & Banaji, M. R. (2021). Gender stereotypes in natural language: Word embeddings show robust consistency across child and adult language corpora of more than 65 million words. Psychological Science, 32(2), 218-240.
